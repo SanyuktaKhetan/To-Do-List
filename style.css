@@ -1,0 +1,39 @@
+body{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+#para1{
+   color:black;
+    font-size:30px;
+}
+.det1{
+  border:2px solid red;
+  padding:20px;
+  text-align: center;
+  height: 250px;
+  width:25%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 9px 0px #949494;
+  margin-top:50px;
+}
+.parent_det{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+ align-content: space-around;
+}
+#head4{
+  color:red;
+  font-size:24px;
+  font-weight: 100;
+}
+#para2{
+  color:red;
+  text-decoration: line-through;
+  font-size: 20px;
+  font-weight:900;
+}
+#sp2{
+  color:rgb(68, 68, 68);
+  font-size: 24px;
+}
